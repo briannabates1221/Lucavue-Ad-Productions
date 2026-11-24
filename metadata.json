@@ -1,0 +1,6 @@
+{
+  "name": "Lucavue Ad Productions",
+  "description": "White-label 30-second video ads for agencies serving garage-door businesses. Voiceover, captions, client branding, and vertical and feed exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
